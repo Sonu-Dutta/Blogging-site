@@ -32,6 +32,8 @@
     border-radius: .3rem ;
 }
 .start{
+    display: flex;
+    align-items: center;
     background-color: black;
 }
 .start a{
