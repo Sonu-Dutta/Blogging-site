@@ -41,6 +41,8 @@
     text-decoration: none;
 }
 .search{
+    display: flex;
+    align-items: center;
     background-color: white;
     color: rgb(34, 32, 32,0.6);
 }
