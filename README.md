@@ -1,4 +1,4 @@
-﻿# Travel-Website
+﻿# Blogging
 
 ## Overview
 #### The website is fully-responsive on different devices!
@@ -16,13 +16,9 @@
 
 ![](./design/sp.png)
 
-### Content of the blog!- Part-1
+### Content of the blog - Part-1
 
 ![](./design/p1.png)
-
-### Content of the blog!- Part-2
-
-![](./design/p2.png)
 
 #### Click here to read more about the content!
 ![](./design/rm.png)
@@ -31,7 +27,11 @@
 
 ![](./design/fd.png)
 
-### Content of the blog!- Part-3
+### Content of the blog!- Part-2
+
+![](./design/p2.png)
+
+### Content of the blog - Part-3
 
 ![](./design/p3.png)
 
