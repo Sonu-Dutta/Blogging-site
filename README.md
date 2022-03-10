@@ -42,7 +42,7 @@
 ### Links
 
 - Solution URL: (https://github.com/Sonu-Dutta/Suven-Project-2/)
-- Live Site URL: (https://travel-website-sonu-dutta.vercel.app/)
+- Live Site URL: (https://suven-project-2.vercel.app/)
 
 ## My process
 
